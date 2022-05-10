@@ -1,5 +1,5 @@
 # Python-Crash-Course-By-Eric-Matthes
-**Book Name:** Python Crash Course (Hands on introduction to programming) \
+**Book Name:** Python Crash Course (Hands on introduction to programming) [2nd Edition] \
 **Book Writer:** Eric Matthes
 
 Python is an incredible language to learn. Here I've solved all the exercise questions of chapter 1 to 10.
