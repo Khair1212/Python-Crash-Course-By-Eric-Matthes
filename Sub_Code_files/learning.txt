@@ -1,0 +1,6 @@
+I've learned Python!
+* Looping
+* Conditional
+* Case
+* Function
+* List
