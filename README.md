@@ -14,7 +14,5 @@ Chapter 7 (User Input and While Loops) \
 Chapter 8 (Functions) \
 Chapter 9 (Classes) \
 Chapter 10 (Files and Exceptions) \
-
 All the solutions are available in the "Solutions.ipynb" file \
-
 **Happy Learning! -_- **
